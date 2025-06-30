@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm Prateeksha 👋
 
 <a href="YOUR_LINKEDIN_URL_HERE">
@@ -22,6 +20,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/> </a>
@@ -29,6 +29,12 @@
   <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js"/> </a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind css"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/> </a>
+  <a href="https://huggingface.co/" target="_blank"> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="hugging face"/> </a>
+  <a href="https://www.langchain.com/" target="_blank"> <img src="https://img.shields.io/badge/LangChain-00865D?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/> </a>
+  <a href="https://langchain-langgraph.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/LangGraph-grey?style=for-the-badge" alt="langgraph"/> </a>
+  <a href="https://openai.com/research/generative-ai" target="_blank"> <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="generative ai"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/> </a>
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> </a>
@@ -45,7 +51,7 @@
 - **Study-Planner**  
 - **AI-Doctor-Chatbot**  
 - **Fashion.AI**  
-- **🩺 DocOnDwar:** AI-integrated medical platform featuring video calls, chatbot (image/audio recognition), location tracking, and Razorpay integration.
+- **🩺 DocOnDwar**
 
 ---
 
